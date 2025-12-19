@@ -34,5 +34,5 @@ The website is optimized for:
 
 Media queries are used to ensure smooth layout changes across screen sizes.
 
-## 📂 Project Structure
+
 
